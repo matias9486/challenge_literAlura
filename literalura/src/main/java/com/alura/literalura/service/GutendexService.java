@@ -1,7 +1,6 @@
 package com.alura.literalura.service;
 
-import com.alura.literalura.model.LibroDTO;
-import com.fasterxml.jackson.databind.DeserializationFeature;
+import com.alura.literalura.model.dto.LibroDTO;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
